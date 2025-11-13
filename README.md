@@ -28,12 +28,3 @@ See [CHANGELOG.md](CHANGELOG.md) for a complete version history.
 3. Allow installation from unknown sources if prompted.  
 4. Enjoy the latest version of **ClubOrange**!
 
----
-
-## 🧡 Feedback & Support
-
-If you encounter issues or have suggestions, please open an issue in this repository or reach out via the app’s feedback section.
-
----
-
-**© ClubOrange Team** — All rights reserved.
