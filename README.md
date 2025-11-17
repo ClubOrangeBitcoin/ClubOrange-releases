@@ -9,7 +9,7 @@ This repository hosts the latest **APK builds** and **changelog** for each relea
 
 Get the latest version of ClubOrange here:
 
-👉 [**Download latest ClubOrange.apk**](https://github.com/ClubOrangeBitcoin/ClubOrange-releases/releases/latest/download/ClubOrange-release.apk)
+👉 [**Download latest ClubOrange.apk**](https://github.com/ClubOrangeBitcoin/ClubOrange-releases/releases/latest/download/ClubOrange.apk)
 
 > This link always points to the newest public release.
 
