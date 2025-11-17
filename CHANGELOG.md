@@ -5,6 +5,13 @@ All notable changes to **ClubOrange** will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.3]
+- Introducing City Group Chats: Automatically connects you to the local chat when you arrive and removes you when you leave.
+- Updated TapZapping logic: Now requires a double tap to avoid accidental zapping.
+- Made the  Event Group Chat button easier to find.
+- Added Merchants Map
+- Fixed some bugs
+
 ## [3.0.2]
 - improved onboarding
 - changed the way TapZapping works to avoid accidental zapping
