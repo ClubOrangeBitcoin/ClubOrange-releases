@@ -2,8 +2,13 @@
 
 All notable changes to **ClubOrange** will be documented in this file.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## 📦 Download
+
+Get the latest version of ClubOrange here:
+
+👉 [**Download latest ClubOrange.apk**](https://github.com/ClubOrangeBitcoin/ClubOrange-releases/releases/latest/download/ClubOrange.apk)
+
+> This link always points to the newest public release.
 
 ## [3.0.4]
 - Redesigned the Wallet for cleaner, easier readability
