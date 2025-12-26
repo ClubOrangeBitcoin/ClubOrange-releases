@@ -10,6 +10,10 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [3.1.6]
+- Added a message icon to zaps that include a note (thanks Elizabeth)
+- Fixed a bug for video messages
+
 ## [3.1.3]
 - Introducing Video Messages — a new way to connect face-to-face with your Bitcoin friends. Long-press the camera icon to send one.
 - Improved search speed for faster results.
