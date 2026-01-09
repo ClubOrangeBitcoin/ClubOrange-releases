@@ -10,6 +10,9 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [3.1.7]
+- redesigned the wallet to make it easier and faster to use
+
 ## [3.1.6]
 - Added a message icon to zaps that include a note (thanks Elizabeth)
 - Fixed a bug for video messages
