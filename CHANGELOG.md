@@ -10,6 +10,10 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [3.1.9]
+- Fixed bug preventing links to be opening  from wallet transactions 
+- Add ability to import an event from an image using AI
+
 ## [3.1.7]
 - redesigned the wallet to make it easier and faster to use
 
