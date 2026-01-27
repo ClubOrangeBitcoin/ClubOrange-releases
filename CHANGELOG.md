@@ -10,6 +10,10 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [3.2.1]
+- Introducing Payment Links: Create an invoice, share a link, get paid instantly in Bitcoin from anybody.
+- added members count for GeoZap in the search result
+
 ## [3.1.9]
 - Fixed bug preventing links to be opening  from wallet transactions 
 - Add ability to import an event from an image using AI
