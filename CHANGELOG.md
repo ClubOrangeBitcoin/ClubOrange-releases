@@ -10,6 +10,11 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [3.2.2]
+- Payment Links — Get paid in Bitcoin by anyone, anywhere, with a simple link
+- AI Event Import — Upload an image and import all event details in one click
+- Wallet Redesign — Faster access to your Ln Address and QR code, clearer recents (GeoZap & MassZap), and fiat balances always visible
+
 ## [3.2.1]
 - Introducing Payment Links: Create an invoice, share a link, get paid instantly in Bitcoin from anybody.
 - added members count for GeoZap in the search result
