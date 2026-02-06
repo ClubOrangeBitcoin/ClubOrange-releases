@@ -10,6 +10,10 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [3.2.4]
+- wallet transaction screen now supports left/right swipe gestures for easier navigation (thanks psyduck)
+- fixed some bugs
+
 ## [3.2.2]
 - Payment Links — Get paid in Bitcoin by anyone, anywhere, with a simple link
 - AI Event Import — Upload an image and import all event details in one click
