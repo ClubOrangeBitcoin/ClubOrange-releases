@@ -11,6 +11,11 @@ Get the latest version of ClubOrange here:
 > This link always points to the newest public release.
 
 ## [3.2.4]
+- Double tap on a message tab to see unread chats (thanks Charlie) 
+- Zap all of your connections at once (thanks Pamela)
+- When searching for a city or a country in the wallet for GeoZapping they now appear on top (thanks Dion)
+
+## [3.2.3]
 - wallet transaction screen now supports left/right swipe gestures for easier navigation (thanks psyduck)
 - fixed some bugs
 
