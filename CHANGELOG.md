@@ -10,6 +10,10 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [3.2.5]
+- you can now enter a fiat amount when creating an invoice in sats
+- merchants can add up to 4 locations
+
 ## [3.2.4]
 - Double tap on a message tab to see unread chats (thanks Charlie) 
 - Zap all of your connections at once (thanks Pamela)
