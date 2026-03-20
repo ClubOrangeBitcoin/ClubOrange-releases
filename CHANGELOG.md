@@ -10,6 +10,11 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [3.2.6]
+- add image to zaps
+- made public groups searchable
+- faster invoice creation 
+
 ## [3.2.5]
 - you can now enter a fiat amount when creating an invoice in sats
 - merchants can add up to 4 locations
