@@ -10,6 +10,9 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [3.2.7]
+- fix add image to zaps
+
 ## [3.2.6]
 - add image to zaps
 - made public groups searchable
