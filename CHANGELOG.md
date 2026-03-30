@@ -10,6 +10,11 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [3.2.8]
+- added GIFs to imagezapping
+- when searching a city, events are now ordered by time instead of distance
+- added an image icon for imagezaps in the transaction screen
+
 ## [3.2.7]
 - fix add image to zaps
 
