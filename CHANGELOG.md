@@ -10,6 +10,9 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [4.0.2]
+- Made Club Orange faster and safer.
+
 ## [3.2.8]
 - added GIFs to imagezapping
 - when searching a city, events are now ordered by time instead of distance
