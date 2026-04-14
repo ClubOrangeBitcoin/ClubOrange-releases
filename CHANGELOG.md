@@ -10,6 +10,12 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [4.0.3]
+- Introducing the Club Orange Self-Custodial Wallet
+- Your seed, your device, your Bitcoin
+- Sending limits removed
+- Send, receive, and GeoZap exactly as before
+
 ## [4.0.2]
 - Made Club Orange faster and safer.
 
