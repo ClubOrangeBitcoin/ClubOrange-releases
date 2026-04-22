@@ -10,6 +10,9 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [4.0.6]
+- Added the ability to search wallet transactions. (thanks Phil)
+
 ## [4.0.5]
 - You can now send sats to an on-chain address!
 
