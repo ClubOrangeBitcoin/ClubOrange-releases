@@ -10,6 +10,9 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [4.0.9]
+- added "mark as read" for wallet transactions
+
 ## [4.0.7]
 - Fix a bug with MassZap
 
