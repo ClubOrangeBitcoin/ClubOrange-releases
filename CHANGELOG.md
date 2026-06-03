@@ -10,6 +10,11 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [4.1.1]
+- added total sent and received in wallet filters
+- added spark address reveal (thanks Pierre S.)
+- fixed a problem with displaying multiple badges
+
 ## [4.0.9]
 - added "mark as read" for wallet transactions
 
