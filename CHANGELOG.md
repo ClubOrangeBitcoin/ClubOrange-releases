@@ -10,6 +10,10 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [4.1.2]
+- Introducing Conference Agendas: Every stage, every talk, live as it happens. 
+- Changed the heart reaction from red to orange. Obviously.
+
 ## [4.1.1]
 - added total sent and received in wallet filters
 - added spark address reveal (thanks Pierre S.)
