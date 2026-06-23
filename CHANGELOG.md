@@ -10,6 +10,12 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [4.1.4]
+- You can now receive Bitcoin via on-chain
+- Fixed an issue with payment links
+- Improved wallet speed
+- Fixed an issue with chat messages
+
 ## [4.1.2]
 - Introducing Conference Agendas: Every stage, every talk, live as it happens. 
 - Changed the heart reaction from red to orange. Obviously.
