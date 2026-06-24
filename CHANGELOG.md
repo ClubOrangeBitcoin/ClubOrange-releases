@@ -10,6 +10,9 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [4.1.5]
+- Improved email and npub change flow
+
 ## [4.1.4]
 - You can now receive Bitcoin via on-chain
 - Fixed an issue with payment links
