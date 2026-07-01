@@ -10,6 +10,12 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [4.1.7]
+Important Update:
+This release restores login, signup, search, and wallet access.
+Please update to the latest version of Club Orange to continue using the app.
+Thank you for your patience. 
+
 ## [4.1.5]
 - Improved email and npub change flow
 
