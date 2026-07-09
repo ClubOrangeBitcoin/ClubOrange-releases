@@ -10,6 +10,14 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [4.1.8]
+- Introducing Pinned Messages in chats.
+- Added menu labels for easier navigation.
+- Added chat wallpapers for improved readability.
+- Added ability for group chat admin to delete other members messages.
+- Aggregated TapZaps to keep wallet transactions cleaner.
+- Fixed an issue where some on-chain transactions weren't displayed correctly.
+
 ## [4.1.7]
 Important Update:
 This release restores login, signup, search, and wallet access.
