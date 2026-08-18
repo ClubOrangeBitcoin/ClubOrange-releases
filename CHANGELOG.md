@@ -10,6 +10,11 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [4.3.1]
+- Added Buy Bitcoin via Cash App, receive the sats directly in your Club Orange wallet.
+- Made the onboarding faster and easier.
+- Fixed some small bugs
+
 ## [4.1.8]
 - Introducing Pinned Messages in chats.
 - Added menu labels for easier navigation.
