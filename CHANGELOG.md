@@ -10,6 +10,9 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [4.3.3]
+- You can now lock your wallet with your device biometrics for an extra layer of security.
+
 ## [4.3.1]
 - Added Buy Bitcoin via Cash App, receive the sats directly in your Club Orange wallet.
 - Made the onboarding faster and easier.
