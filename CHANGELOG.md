@@ -10,6 +10,9 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [4.3.4]
+- Added New Today, an easier way to see who’s active or just arrived in your city.
+
 ## [4.3.3]
 - You can now lock your wallet with your device biometrics for an extra layer of security.
 
