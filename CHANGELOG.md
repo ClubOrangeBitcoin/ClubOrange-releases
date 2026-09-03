@@ -10,6 +10,9 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [4.3.7]
+- Fixed a bug preventing the Buy Bitcoin button showing to users in Switzerland, Iceland and Norway
+
 ## [4.3.5]
 - Improved how your wallet Seed Phrase is displayed. 
 - Added New Nearby: the easiest way to see who’s active or just arrived in your city.
