@@ -10,6 +10,12 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [4.4.3]
+- Redesigned profile and settings make your QR code easier to find, so others can connect with you more easily.
+- Event RSVPs now appear in group chats.
+- Clearer recovery phrase, transaction details and failed payments.
+- Improved event imports, event dates, chat search and link previews.
+
 ## [4.3.7]
 - Fixed a bug preventing the Buy Bitcoin button showing to users in Switzerland, Iceland and Norway
 
