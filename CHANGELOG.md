@@ -10,6 +10,10 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [4.4.5]
+- Added Bitcoin Purchases in Canada
+- Added status progress for GeoZaps (Thanks Ethan)
+
 ## [4.4.3]
 - Redesigned profile and settings make your QR code easier to find, so others can connect with you more easily.
 - Event RSVPs now appear in group chats.
