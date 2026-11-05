@@ -10,6 +10,9 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [4.4.6]
+- Added Notification Center
+
 ## [4.4.5]
 - Added Bitcoin Purchases in Canada
 - Added status progress for GeoZaps (Thanks Ethan)
