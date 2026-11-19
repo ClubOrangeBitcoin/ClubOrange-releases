@@ -10,6 +10,10 @@ Get the latest version of ClubOrange here:
 
 > This link always points to the newest public release.
 
+## [4.4.7]
+- fixed cashapp bug for bitcoin purchases
+- STACK FRIENDS WHO STACK SATS
+
 ## [4.4.6]
 - Added Notification Center
 
